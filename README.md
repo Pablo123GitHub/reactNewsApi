@@ -1,13 +1,11 @@
 #### Resources used to create this project : 
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Project created following Lynda.com tutorial : 
-
-[React: Working with APIs](https://www.lynda.com/player/embed/711710?fs=3&w=560&h=315&ps=paused&utm_medium=referral&utm_source=embed+video&utm_campaign=ldc-website&utm_content=vid-711710) by [Emmanuel Henri](https://www.lynda.com/author/6037653)
+- [React: Working with APIs](https://www.lynda.com/player/embed/711710?fs=3&w=560&h=315&ps=paused&utm_medium=referral&utm_source=embed+video&utm_campaign=ldc-website&utm_content=vid-711710) by [Emmanuel Henri](https://www.lynda.com/author/6037653)
 
 - Using [Materializecss](http://materializecss.com/) for styling. 
 
+- Bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app)
 
 #### How to install it 
 
@@ -36,7 +34,7 @@ For more on using dotenv with a create-react app please check this [article](htt
 
 Once you have saved your changes, you can open a terminal window : 
 
-```angularjs
+```
 npm start 
 ```
 
