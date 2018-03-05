@@ -1,18 +1,41 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import News from './News/News';
 
 class App extends Component {
+
+    constructor (props) {
+        super(props);
+     this.state = {
+         news1: {
+             type: "top-headlines",
+             source: "bbc-news"
+         },
+         news2: {
+             type: "top-headlines",
+             source: "le-monde"
+         }
+     }
+    }
+
+
+
   render() {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="App-title">My news feed </h1>
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+
+          <News
+    news = {this.state.news1}
+      />
+
+      <News
+      news = {this.state.news2}
+      />
+
+
       </div>
     );
   }
