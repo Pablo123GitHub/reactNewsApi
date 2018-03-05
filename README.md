@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Project created following Lynda.com tutorial : 
 
-<iframe width='560' height='315' src='https://www.lynda.com/player/embed/711710?fs=3&w=560&h=315&ps=paused&utm_medium=referral&utm_source=embed+video&utm_campaign=ldc-website&utm_content=vid-711710' mozallowfullscreen='true' webkitallowfullscreen='true' allowfullscreen='true' frameborder='0'></iframe><div style="margin-bottom:10px"><strong><a href="https://www.lynda.com/React-js-tutorials/React-Working-APIs/636137-2.html" title="Learn how to make API calls from your React applications using two techniques: built-in fetch methods and the axios library.">React: Working with APIs</a></strong> by <a href="https://www.lynda.com/author/6037653">Emmanuel Henri</a></div>
+[React: Working with APIs](https://www.lynda.com/player/embed/711710?fs=3&w=560&h=315&ps=paused&utm_medium=referral&utm_source=embed+video&utm_campaign=ldc-website&utm_content=vid-711710) by [Emmanuel Henri](https://www.lynda.com/author/6037653)
 
 - Using [Materializecss](http://materializecss.com/) for styling. 
 
